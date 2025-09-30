@@ -53,7 +53,7 @@
         </div>
 
         <!-- Background Audio -->
-        <audio ref="bgAudio" src="/audios/yung kai - blue (official music video).mp3" loop></audio>
+        <audio ref="bgAudio" src="/audios/background.mp3" loop></audio>
     </div>
 </template>
 
