@@ -100,7 +100,7 @@ const goToSlide = (index) => {
 const startSlideshow = () => {
     intervalId = setInterval(() => {
         currentIndex.value = (currentIndex.value + 1) % slides.length
-    }, 5000) // 5 seconds
+    }, 8000) // 5 seconds
 }
 
 const stopSlideshow = () => {
