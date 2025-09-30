@@ -1,4 +1,7 @@
 <template>
+    <Head>
+        <Title>Video Greeting</Title>
+    </Head>
     <div class="min-h-screen bg-gradient-to-br from-pink-200 via-purple-200 to-blue-200 px-4 py-10 flex flex-col items-center">
         <div class="w-full max-w-4xl text-center">
             <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-800 mb-8">

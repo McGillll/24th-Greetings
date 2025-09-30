@@ -1,11 +1,8 @@
 <template>
     <div>
-<!--  
- 
-  CSS Blossoming Flowers at Magical Night.
-  I've taken some inspiration by Yup Nguyen's Artwork: https://dribbble.com/shots/11096994-Virtual-Garden.
-  Made with Pure CSS & ♥
--->
+    <Head>
+        <Title>Flowers</Title>
+    </Head>
 
 <body class="not-loaded">
   <div class="night"></div>

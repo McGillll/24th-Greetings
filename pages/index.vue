@@ -1,4 +1,7 @@
 <template>
+	<Head>
+        <Title>To Cherry Eam</Title>
+    </Head>
     <div class="min-h-screen flex items-center justify-center bg-gradient-to-br from-pink-200 via-purple-200 to-blue-200 px-4">
         <div class="text-center w-full max-w-md">
             <h1 class="text-4xl sm:text-5xl md:text-5xl font-bold text-gray-800 mb-6 leading-tight">
